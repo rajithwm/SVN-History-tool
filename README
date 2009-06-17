@@ -1,0 +1,6 @@
+This is a SVN related project where SVN feeds will be processed to generate Graphical and Table based output.
+Following technologies will be used in this project. 
+	1. Ruby and Rails
+	2. MySQL
+	
+	SVN feeds will be getting directly through SVN repository or via mails which will be configured to send at each SVN change. 
